@@ -3,7 +3,7 @@
     "modid": "prehistoricdiner",
     "name": "The Prehistoric Diner",
     "description": "Feasting on foodstuffs for the Prehistoric Nature mod",
-    "version": "${version}",
+    "version": "1.12.2-1.0",
     "credits": "Aecht Rob",
     "logoFile": "assets/prehistoricdiner/textures/packlogo.png",
     "mcversion": "${mcversion}",
