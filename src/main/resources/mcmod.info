@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "prehistoricdiner",
+    "name": "The Prehistoric Diner",
+    "description": "Feasting on foodstuffs for the Prehistoric Nature mod",
+    "version": "${version}",
+    "credits": "Aecht Rob",
+    "logoFile": "assets/prehistoricdiner/textures/packlogo.png",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/AechtRob/prehistoricdiner",
+    "updateUrl": "",
+    "authorList": [
+      "Aecht Rob"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
