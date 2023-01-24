@@ -1,0 +1,27 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "type": "forge:ore_dict",
+      "ore": "stickWood"
+    },
+    "4": {
+      "type": "forge:ore_dict",
+      "ore": "wood"
+    },
+    "8": {
+      "type": "forge:ore_dict",
+      "ore": "stickWood"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:rolling_pin",
+    "count": 1
+  }
+}
