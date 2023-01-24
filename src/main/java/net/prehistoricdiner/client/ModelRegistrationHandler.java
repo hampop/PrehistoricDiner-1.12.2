@@ -20,6 +20,7 @@ public class ModelRegistrationHandler {
     @SubscribeEvent
     public static void registerModels(ModelRegistryEvent event) {
         registerModel(ModItems.food_item, 0);
+        registerModel(ModItems.skillet, 0);
 
     }
 

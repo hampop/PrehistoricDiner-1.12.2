@@ -2,3 +2,10 @@ itemGroup.prehistoricdiner=The Prehistoric Diner
 
 item.prehistoricdiner.food_item.name=Food decription here
 
+item.prehistoricdiner.ladle.name=Ladle
+item.prehistoricdiner.knife.name=Kitchen Knife
+item.prehistoricdiner.pot.name=Pot
+item.prehistoricdiner.grinder.name=Grinder
+item.prehistoricdiner.skillet.name=Skillet
+item.prehistoricdiner.rolling_pin.name=Rolling Pin
+
