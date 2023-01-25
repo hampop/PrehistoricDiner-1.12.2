@@ -8,19 +8,24 @@
   ],
   "key": {
     "3": {
-      "item": "minecraft:stone"
+      "type": "forge:ore_dict",
+      "ore": "stone"
     },
     "5": {
-      "item": "minecraft:stone"
+      "type": "forge:ore_dict",
+      "ore": "stone"
     },
     "6": {
-      "item": "minecraft:stone"
+      "type": "forge:ore_dict",
+      "ore": "stone"
     },
     "7": {
-      "item": "minecraft:stone"
+      "type": "forge:ore_dict",
+      "ore": "stone"
     },
     "8": {
-      "item": "minecraft:stone"
+      "type": "forge:ore_dict",
+      "ore": "stone"
     }
   },
   "result": {
