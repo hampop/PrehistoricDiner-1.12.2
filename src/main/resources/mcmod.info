@@ -12,9 +12,9 @@
     "authorList": [
       "Aecht Rob"
     ],
-    "dependencies": [],
+    "dependencies": ["patchouli@[1.0-21,)"],
     "dependants": [],
-    "requiredMods": [],
+    "requiredMods": ["patchouli@[1.0-21,)"],
     "useDependencyInformation": "true"
   }
 ]

@@ -77,7 +77,7 @@ dependencies {
     // deobf 'com.mod-buildcraft:buildcraft:6.0.8:dev'
 
     //compile "net.ilexiconn:llibrary:1.7.19-1.12.2"
-    //compile "vazkii.patchouli:Patchouli:1.0-21.4"
+    compile "vazkii.patchouli:Patchouli:1.0-21.4"
     // For more info...
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
@@ -158,6 +158,6 @@ repositories {
     //    name = "ilexiconn"
     //    url = "https://maven.mcmoddev.com"
     //}
-    //maven { url 'https://maven.blamejared.com' }
+    maven { url 'https://maven.blamejared.com' }
 }
 
