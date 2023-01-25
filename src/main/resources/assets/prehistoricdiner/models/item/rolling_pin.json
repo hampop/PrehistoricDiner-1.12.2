@@ -1,4 +1,9 @@
-{"parent": "item/generated", "textures": {"layer0": "prehistoricdiner:items/rolling_pin"}}
+{
+  "parent": "item/generated",
+    "textures": {
+    "layer0": "prehistoricdiner:items/rolling_pin"
+  }
+}
 
 
 

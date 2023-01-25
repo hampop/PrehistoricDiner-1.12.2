@@ -13,7 +13,7 @@
     },
     "4": {
       "type": "forge:ore_dict",
-      "ore": "wood"
+      "ore": "plankWood"
     },
     "8": {
       "type": "forge:ore_dict",
