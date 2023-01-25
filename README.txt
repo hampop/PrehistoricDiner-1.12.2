@@ -23,3 +23,38 @@ To add a food item:
 
 7) resources -> recipes
     Add your recipe for the item in here
+
+
+
+
+
+
+Notes for Making an Entry:
+--------------------------
+1) Copy an existing entry and place it in the correct category
+ main -> resources -> assets -> patchouli_books -> book -> en_us -> entries -> [correct category]
+
+2) On the bottom of the file: replace recipe_id with the id of the recipe (name of the json file) and replace "Name" with the name of the dish/ingredient/utensil
+
+        {
+			"type": "crafting",
+			"recipe": "prehistoricdiner:recipe_id",
+			"title": "Name"
+		}
+
+3) On the top of the file: replace "Name" with the name of the dish/ingredient/utensil
+    replace "item_id" with the id of the item (this is what you would use to /give yourself the item ingame)
+    replace "category" with the name of the category this entry belongs to
+
+
+	"name": "Name",
+	"icon": "prehistoricdiner:item_id",
+	"category": "prehistoricdiner:category",
+
+4) Next replace "username" with your discord handle or whatever name you prefer
+    after the $(br) you may write a short description about the item
+
+        {
+			"type": "text",
+			"text": "Recipe submitted by username $(br)"
+		},

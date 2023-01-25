@@ -21,6 +21,11 @@ public class ModelRegistrationHandler {
     public static void registerModels(ModelRegistryEvent event) {
         registerModel(ModItems.food_item, 0);
         registerModel(ModItems.skillet, 0);
+        registerModel(ModItems.pot, 0);
+        registerModel(ModItems.grinder, 0);
+        registerModel(ModItems.rolling_pin, 0);
+        registerModel(ModItems.knife, 0);
+        registerModel(ModItems.ladle, 0);
 
     }
 

@@ -1,0 +1,30 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "3": {
+      "item": "minecraft:stone"
+    },
+    "5": {
+      "item": "minecraft:stone"
+    },
+    "6": {
+      "item": "minecraft:stone"
+    },
+    "7": {
+      "item": "minecraft:stone"
+    },
+    "8": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:pot",
+    "count": 1
+  }
+}
