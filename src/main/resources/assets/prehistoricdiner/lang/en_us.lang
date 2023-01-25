@@ -1,6 +1,7 @@
 itemGroup.prehistoricdiner=The Prehistoric Diner
 
 item.prehistoricdiner.food_item.name=Food decription here
+item.prehistoricdiner.grilled_fish_skewer.name=Grilled Fish Skewer
 
 item.prehistoricdiner.ladle.name=Ladle
 item.prehistoricdiner.knife.name=Kitchen Knife

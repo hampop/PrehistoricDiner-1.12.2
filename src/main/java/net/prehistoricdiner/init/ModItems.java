@@ -6,6 +6,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 @ObjectHolder("prehistoricdiner")
 public class ModItems {
     public static final Item food_item = null;
+    public static final Item grilled_fish_skewer = null;
     public static final Item skillet = null;
     public static final Item pot = null;
     public static final Item grinder = null;

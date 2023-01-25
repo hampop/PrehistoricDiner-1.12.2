@@ -17,7 +17,10 @@ public class RegistrationHandler {
     @SubscribeEvent
     public static void registerItems(RegistryEvent.Register<Item> event) {
         Item[] items = new Item[]{
-                ((Item)(new ItemFood(2, 2F, false)).setRegistryName("prehistoricdiner", "food_item")).setTranslationKey("prehistoricdiner.food_item").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new ItemFood(2, 1F, false)).setRegistryName("prehistoricdiner", "food_item")).setTranslationKey("prehistoricdiner.food_item").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new ItemFood(3, 1F, false)).setRegistryName("prehistoricdiner", "grilled_fish_skewer")).setTranslationKey("prehistoricdiner.grilled_fish_skewer").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+
+
                 ((Item)(new ItemDamageableCrafted()).setRegistryName("prehistoricdiner", "skillet")).setTranslationKey("prehistoricdiner.skillet").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
                 ((Item)(new ItemDamageableCrafted()).setRegistryName("prehistoricdiner", "pot")).setTranslationKey("prehistoricdiner.pot").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
                 ((Item)(new ItemDamageableCrafted()).setRegistryName("prehistoricdiner", "knife")).setTranslationKey("prehistoricdiner.knife").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
