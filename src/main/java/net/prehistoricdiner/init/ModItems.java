@@ -5,8 +5,14 @@ import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 
 @ObjectHolder("prehistoricdiner")
 public class ModItems {
+    //Example:
     public static final Item food_item = null;
+
+    //Food items:
     public static final Item grilled_fish_skewer = null;
+
+
+    //Non-food items:
     public static final Item skillet = null;
     public static final Item pot = null;
     public static final Item grinder = null;

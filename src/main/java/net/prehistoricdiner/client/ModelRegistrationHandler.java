@@ -19,8 +19,14 @@ public class ModelRegistrationHandler {
 
     @SubscribeEvent
     public static void registerModels(ModelRegistryEvent event) {
+        //Example:
         registerModel(ModItems.food_item, 0);
+
+        //Food items:
         registerModel(ModItems.grilled_fish_skewer, 0);
+
+
+        //Non-food items:
         registerModel(ModItems.skillet, 0);
         registerModel(ModItems.pot, 0);
         registerModel(ModItems.grinder, 0);
