@@ -1,5 +1,8 @@
 itemGroup.prehistoricdiner=The Prehistoric Diner
 
+item.prehistoricdiner.cookbook.name=Tempus Fugit
+item.prehistoricdiner.book_text.name=A compendium of recipes from the distant past
+
 item.prehistoricdiner.food_item.name=Food decription here
 item.prehistoricdiner.grilled_fish_skewer.name=Grilled Fish Skewer
 

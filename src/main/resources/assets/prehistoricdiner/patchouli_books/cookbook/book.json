@@ -1,0 +1,9 @@
+{
+	"name": "item.prehistoricdiner.cookbook.name",
+	"landing_text": "item.prehistoricdiner.book_text.name",
+	"book_texture": "patchouli:textures/gui/book_cyan.png",
+	"creative_tab": "creative_tab",
+	"model": "prehistoricdiner:pdbook",
+	"show_progress": false,
+	"version": 1
+}
