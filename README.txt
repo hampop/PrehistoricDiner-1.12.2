@@ -51,6 +51,8 @@ Notes for Making an Entry:
 	"icon": "prehistoricdiner:item_id",
 	"category": "prehistoricdiner:category",
 
+	The current categories in the code are "recipes" and "utensils".
+
 4) Next replace "username" with your discord handle or whatever name you prefer
     after the $(br) you may write a short description about the item
 

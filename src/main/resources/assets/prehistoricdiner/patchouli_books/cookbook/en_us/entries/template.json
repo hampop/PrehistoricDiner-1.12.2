@@ -1,0 +1,15 @@
+{
+	"name": "",
+	"icon": "prehistoricdiner:",
+	"category": "prehistoricdiner:recipe",
+	"pages": [
+		{
+			"type": "quest",
+			"text": "Recipe submitted by username$(br)"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:"
+		}
+	]
+}
