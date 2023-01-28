@@ -2,12 +2,12 @@
   "group": "prehistoricdiner",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "  2",
+    " 1 ",
     "3 5",
-    " 7 "
+    "678"
   ],
   "key": {
-    "2": {
+    "1": {
       "type": "forge:ore_dict",
       "ore": "stone"
     },
@@ -19,13 +19,21 @@
       "type": "forge:ore_dict",
       "ore": "stone"
     },
+    "6": {
+      "type": "forge:ore_dict",
+      "ore": "stone"
+    },
     "7": {
+      "type": "forge:ore_dict",
+      "ore": "stone"
+    },
+    "8": {
       "type": "forge:ore_dict",
       "ore": "stone"
     }
   },
   "result": {
-    "item": "prehistoricdiner:ladle",
+    "item": "prehistoricdiner:grinder",
     "count": 1
   }
 }
