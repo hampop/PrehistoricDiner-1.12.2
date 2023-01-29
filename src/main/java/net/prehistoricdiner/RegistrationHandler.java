@@ -24,6 +24,11 @@ public class RegistrationHandler {
                 ((Item)(new ItemFood(3, 1F, false)).setRegistryName("prehistoricdiner", "grilled_fish_skewer")).setTranslationKey("prehistoricdiner.grilled_fish_skewer").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
 
 
+                //Non edible Ingredient Items:
+                ((Item)(new Item()).setRegistryName("prehistoricdiner", "flour")).setTranslationKey("prehistoricdiner.flour").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new Item()).setRegistryName("prehistoricdiner", "pine_nut_oil")).setTranslationKey("prehistoricdiner.pine_nut_oil").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+
+
                 //Non-food items:
                 ((Item)(new ItemDamageableCrafted()).setRegistryName("prehistoricdiner", "skillet")).setTranslationKey("prehistoricdiner.skillet").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
                 ((Item)(new ItemDamageableCrafted()).setRegistryName("prehistoricdiner", "pot")).setTranslationKey("prehistoricdiner.pot").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
