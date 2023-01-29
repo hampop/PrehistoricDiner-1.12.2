@@ -6,6 +6,11 @@ item.prehistoricdiner.book_text.name=A compendium of recipes from the distant pa
 item.prehistoricdiner.food_item.name=Food decription here
 item.prehistoricdiner.grilled_fish_skewer.name=Grilled Fish Skewer
 
+
+item.prehistoricdiner.flour.name=Flour
+item.prehistoricdiner.pine_nut_oil.name=Pine Nut Oil
+
+
 item.prehistoricdiner.ladle.name=Ladle
 item.prehistoricdiner.knife.name=Kitchen Knife
 item.prehistoricdiner.pot.name=Pot

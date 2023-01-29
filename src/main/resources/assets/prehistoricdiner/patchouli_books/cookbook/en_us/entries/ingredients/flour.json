@@ -1,0 +1,15 @@
+{
+	"name": "Flour",
+	"icon": "prehistoricdiner:flour",
+	"category": "prehistoricdiner:ingredients",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by shinylemon2$(br)"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:flour"
+		}
+	]
+}

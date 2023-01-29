@@ -1,0 +1,30 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "3": {
+      "type": "forge:ore_dict",
+      "ore": "cropWheat"
+    },
+    "4": {
+      "type": "forge:ore_dict",
+      "ore": "cropWheat"
+    },
+    "5": {
+      "type": "forge:ore_dict",
+      "ore": "cropWheat"
+    },
+    "7": {
+      "item": "prehistoricdiner:grinder"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:flour",
+    "count": 3
+  }
+}

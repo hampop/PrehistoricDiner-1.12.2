@@ -26,7 +26,12 @@ public class ModelRegistrationHandler {
         registerModel(ModItems.grilled_fish_skewer, 0);
 
 
-        //Non-food items:
+        //Non Edible Ingredient Items:
+        registerModel(ModItems.flour, 0);
+        registerModel(ModItems.pine_nut_oil, 0);
+
+
+        //Utensils/Tools:
         registerModel(ModItems.skillet, 0);
         registerModel(ModItems.pot, 0);
         registerModel(ModItems.grinder, 0);

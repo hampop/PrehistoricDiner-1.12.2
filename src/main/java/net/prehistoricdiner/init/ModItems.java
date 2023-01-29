@@ -11,8 +11,12 @@ public class ModItems {
     //Food items:
     public static final Item grilled_fish_skewer = null;
 
+    //Non edible ingredient items:
+    public static final Item flour = null;
+    public static final Item pine_nut_oil = null;
 
-    //Non-food items:
+
+    //Utensils/Tools:
     public static final Item skillet = null;
     public static final Item pot = null;
     public static final Item grinder = null;
