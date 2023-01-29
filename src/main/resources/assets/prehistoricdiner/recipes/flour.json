@@ -20,7 +20,8 @@
       "ore": "cropWheat"
     },
     "7": {
-      "item": "prehistoricdiner:grinder"
+      "type": "forge:ore_dict",
+      "ore": "prehistoricdiner:grinder"
     }
   },
   "result": {
