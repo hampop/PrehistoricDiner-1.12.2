@@ -26,15 +26,22 @@ To add a food item:
 
 
 
+Notes about recipes:
+--------------------
+
+To use one of the Diner mod's own utensils, the utensil should be specified as an oredict, not an item.
+Please look at the recipe for flour as an example (the grinder).
+
+If you need new recipe ingredient oredicts adding, please raise the request on the Discord.
 
 
 
-Notes for Making an Entry:
---------------------------
+Notes for Making a recipe book Entry:
+------------------------------------
 1) Copy an existing entry and place it in the correct category
  main -> resources -> assets -> patchouli_books -> book -> en_us -> entries -> [correct category]
 
-2) On the bottom of the file: replace recipe_id with the id of the recipe (name of the json file) and replace "Name" with the name of the dish/ingredient/utensil
+2) On the bottom of the file: replace recipe_id with the id of the recipe (the name of the recipe json file) and replace "Name" with the name of the dish/ingredient/utensil
 
         {
 			"type": "crafting",
