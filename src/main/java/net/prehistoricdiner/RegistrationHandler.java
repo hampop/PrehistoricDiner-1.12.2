@@ -26,6 +26,7 @@ public class RegistrationHandler {
 
                 //Non edible Ingredient Items:
                 ((Item)(new Item()).setRegistryName("prehistoricdiner", "flour")).setTranslationKey("prehistoricdiner.flour").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new Item()).setRegistryName("prehistoricdiner", "fiddlehead")).setTranslationKey("prehistoricdiner.fiddlehead").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
                 ((Item)(new Item()).setRegistryName("prehistoricdiner", "pine_nut_oil")).setTranslationKey("prehistoricdiner.pine_nut_oil").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
 
 

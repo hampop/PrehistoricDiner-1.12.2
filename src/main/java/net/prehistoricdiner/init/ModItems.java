@@ -13,6 +13,7 @@ public class ModItems {
 
     //Non edible ingredient items:
     public static final Item flour = null;
+    public static final Item fiddlehead = null;
     public static final Item pine_nut_oil = null;
 
 

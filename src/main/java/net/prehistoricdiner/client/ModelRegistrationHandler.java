@@ -28,6 +28,7 @@ public class ModelRegistrationHandler {
 
         //Non Edible Ingredient Items:
         registerModel(ModItems.flour, 0);
+        registerModel(ModItems.fiddlehead, 0);
         registerModel(ModItems.pine_nut_oil, 0);
 
 

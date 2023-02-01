@@ -1,0 +1,17 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lepidodendron:cinnamon_fern"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "prehistoricdiner:knife"
+    }
+  ],
+  "result": {
+    "item": "prehistoricdiner:fiddlehead",
+    "count": 4
+  }
+}
