@@ -1,0 +1,28 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "3": {
+      "item": "lepidodendron:bunya_nuts"
+    },
+    "4": {
+      "item": "lepidodendron:bunya_nuts"
+    },
+    "5": {
+      "item": "lepidodendron:bunya_nuts"
+    },
+    "7": {
+      "type": "forge:ore_dict",
+      "ore": "prehistoricdiner:grinder"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:araucaria_flour",
+    "count": 3
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Araucaria Nut Flour",
+	"icon": "prehistoricdiner:araucaria_flour",
+	"category": "prehistoricdiner:ingredients",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by WTF27pl $(br) Note: This recipe can be made with all Araucaria nuts not just the ones shown."
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:araucaria_flour_bunya"
+		}
+	]
+}

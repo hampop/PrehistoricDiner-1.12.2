@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "Recipe submitted by Gnath$(br2)Saturation: $(br)Hunger: "
+			"text": "Recipe submitted by Gnath$(br2)Saturation: 1$(br)Hunger: 1"
 		},
 		{
 			"type": "crafting",

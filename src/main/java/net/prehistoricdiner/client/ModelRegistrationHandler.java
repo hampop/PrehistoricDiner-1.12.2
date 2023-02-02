@@ -33,10 +33,13 @@ public class ModelRegistrationHandler {
         registerModel(ModItems.jam_sphenobaiera, 0);
         registerModel(ModItems.jam_trichopitys, 0);
         registerModel(ModItems.jam_umaltolepis, 0);
+        registerModel(ModItems.mushroom_fern_coelophysis, 0);
 
 
         //Non Edible Ingredient Items:
         registerModel(ModItems.flour, 0);
+        registerModel(ModItems.araucaria_flour, 0);
+        registerModel(ModItems.scorpion_flour, 0);
         registerModel(ModItems.fiddlehead, 0);
         registerModel(ModItems.pine_nut_oil, 0);
 

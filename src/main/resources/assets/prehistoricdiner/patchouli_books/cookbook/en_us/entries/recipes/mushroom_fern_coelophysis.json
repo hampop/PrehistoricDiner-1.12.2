@@ -1,0 +1,15 @@
+{
+	"name": "Stuffed Coelophysis",
+	"icon": "prehistoricdiner:mushroom_fern_coelophysis",
+	"category": "prehistoricdiner:general",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by QueenKay07 $(br2)Saturation: 6$(br)Hunger: 9"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:mushroom_fern_coelophysis"
+		}
+	]
+}

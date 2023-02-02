@@ -19,9 +19,15 @@ public class ModItems {
     public static final Item jam_sphenobaiera = null;
     public static final Item jam_trichopitys = null;
     public static final Item jam_umaltolepis = null;
+    public static final Item mushroom_fern_coelophysis = null;
+
+
+
 
     //Non edible ingredient items:
     public static final Item flour = null;
+    public static final Item araucaria_flour = null;
+    public static final Item scorpion_flour = null;
     public static final Item fiddlehead = null;
     public static final Item pine_nut_oil = null;
 

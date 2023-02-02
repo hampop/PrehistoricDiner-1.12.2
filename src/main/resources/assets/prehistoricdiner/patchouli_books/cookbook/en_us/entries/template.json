@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "Recipe submitted by username$(br2)Saturation: $(br)Hunger: "
+			"text": "Recipe submitted by username $(br2)Saturation: $(br)Hunger: "
 		},
 		{
 			"type": "crafting",
