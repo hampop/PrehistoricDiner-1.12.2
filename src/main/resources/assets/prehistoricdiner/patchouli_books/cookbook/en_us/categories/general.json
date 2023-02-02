@@ -1,0 +1,7 @@
+{
+    "name": "General Recipes",
+    "description": "$(l)This section is for everything else that didn't fit one of the other categories",
+    "icon": "prehistoricdiner:grilled_fish_skewer",
+    "parent": "prehistoricdiner:recipes",
+    "sortnum": 0
+}

@@ -1,11 +1,11 @@
 {
 	"name": "",
 	"icon": "prehistoricdiner:",
-	"category": "prehistoricdiner:recipe",
+	"category": "prehistoricdiner:",
 	"pages": [
 		{
 			"type": "text",
-			"text": "Recipe submitted by username$(br)"
+			"text": "Recipe submitted by username$(br2)Saturation: $(br)Hunger: "
 		},
 		{
 			"type": "crafting",

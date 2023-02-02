@@ -10,11 +10,21 @@ public class ModItems {
 
     //Food items:
     public static final Item grilled_fish_skewer = null;
+    public static final Item jam_baiera = null;
+    public static final Item jam_czekanowskia = null;
+    public static final Item jam_ginkgoites = null;
+    public static final Item jam_nystroemia = null;
+    public static final Item jam_phoenicopsis = null;
+    public static final Item jam_polyspermophyllum = null;
+    public static final Item jam_sphenobaiera = null;
+    public static final Item jam_trichopitys = null;
+    public static final Item jam_umaltolepis = null;
 
     //Non edible ingredient items:
     public static final Item flour = null;
     public static final Item fiddlehead = null;
     public static final Item pine_nut_oil = null;
+
 
 
     //Utensils/Tools:

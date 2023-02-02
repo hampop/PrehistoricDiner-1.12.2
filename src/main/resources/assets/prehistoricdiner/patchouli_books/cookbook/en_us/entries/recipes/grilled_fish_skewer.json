@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "Recipe submitted by The Italian Paleogirl$(br)"
+			"text": "Recipe submitted by The Italian Paleogirl$(br2)Saturation: $(br)Hunger: "
 		},
 		{
 			"type": "crafting",

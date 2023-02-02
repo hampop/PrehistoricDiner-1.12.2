@@ -1,0 +1,15 @@
+{
+	"name": "Nystroemia Jam",
+	"icon": "prehistoricdiner:jam_nystroemia",
+	"category": "prehistoricdiner:jams_sauces",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by Gnath$(br2)Saturation: $(br)Hunger: "
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:jam_nystroemia"
+		}
+	]
+}

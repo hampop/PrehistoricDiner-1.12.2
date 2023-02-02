@@ -24,12 +24,23 @@ public class ModelRegistrationHandler {
 
         //Food items:
         registerModel(ModItems.grilled_fish_skewer, 0);
+        registerModel(ModItems.jam_baiera, 0);
+        registerModel(ModItems.jam_czekanowskia, 0);
+        registerModel(ModItems.jam_ginkgoites, 0);
+        registerModel(ModItems.jam_nystroemia, 0);
+        registerModel(ModItems.jam_phoenicopsis, 0);
+        registerModel(ModItems.jam_polyspermophyllum, 0);
+        registerModel(ModItems.jam_sphenobaiera, 0);
+        registerModel(ModItems.jam_trichopitys, 0);
+        registerModel(ModItems.jam_umaltolepis, 0);
 
 
         //Non Edible Ingredient Items:
         registerModel(ModItems.flour, 0);
         registerModel(ModItems.fiddlehead, 0);
         registerModel(ModItems.pine_nut_oil, 0);
+
+
 
 
         //Utensils/Tools:
