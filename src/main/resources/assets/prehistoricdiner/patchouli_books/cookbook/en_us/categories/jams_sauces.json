@@ -1,0 +1,7 @@
+{
+    "name": "Jams and Sauces",
+    "description": "$(l)These foods do not tend to restore much, use them in higher grade food recipes instead!",
+    "icon": "prehistoricdiner:jam_baiera",
+    "parent": "prehistoricdiner:recipes",
+    "sortnum": 1
+}

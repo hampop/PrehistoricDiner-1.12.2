@@ -1,0 +1,28 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:glass_bottle"
+    },
+    "4": {
+      "item": "minecraft:sugar"
+    },
+    "5": {
+      "item": "lepidodendron:baiera_fruit"
+    },
+    "7": {
+      "type": "forge:ore_dict",
+      "ore": "prehistoricdiner:pot"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:jam_baiera",
+    "count": 1
+  }
+}

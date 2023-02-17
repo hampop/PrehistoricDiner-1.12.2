@@ -1,11 +1,11 @@
 {
 	"name": "Grilled Fish Skewer",
 	"icon": "prehistoricdiner:grilled_fish_skewer",
-	"category": "prehistoricdiner:recipes",
+	"category": "prehistoricdiner:general",
 	"pages": [
 		{
 			"type": "text",
-			"text": "Recipe submitted by The Italian Paleogirl$(br)"
+			"text": "Recipe submitted by The Italian Paleogirl$(br2)Saturation: 1$(br)Hunger: 3"
 		},
 		{
 			"type": "crafting",

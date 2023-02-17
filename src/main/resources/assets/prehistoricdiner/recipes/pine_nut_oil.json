@@ -1,0 +1,25 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "4": {
+      "item": "lepidodendron:roasted_pine_nuts"
+    },
+    "5": {
+      "item": "minecraft:glass_bottle"
+    },
+    "7": {
+      "type": "forge:ore_dict",
+      "ore": "prehistoricdiner:grinder"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:pine_nut_oil",
+    "count": 1
+  }
+}

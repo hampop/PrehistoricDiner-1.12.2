@@ -1,0 +1,15 @@
+{
+	"name": "Czekanowskia Jam",
+	"icon": "prehistoricdiner:jam_czekanowskia",
+	"category": "prehistoricdiner:jams_sauces",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by Gnath$(br2)Saturation: 1$(br)Hunger: 1"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:jam_czekanowskia"
+		}
+	]
+}

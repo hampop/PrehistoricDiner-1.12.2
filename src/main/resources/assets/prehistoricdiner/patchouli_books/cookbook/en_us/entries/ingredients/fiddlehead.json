@@ -1,0 +1,15 @@
+{
+	"name": "Fiddlehead",
+	"icon": "prehistoricdiner:fiddlehead",
+	"category": "prehistoricdiner:ingredients",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by Gnath$(br)"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:fiddlehead"
+		}
+	]
+}

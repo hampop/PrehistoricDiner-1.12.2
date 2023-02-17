@@ -1,0 +1,15 @@
+{
+	"name": "Rolling Pin",
+	"icon": "prehistoricdiner:rolling_pin",
+	"category": "prehistoricdiner:utensils",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by shinylemon2$(br)"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:rolling_pin"
+		}
+	]
+}
