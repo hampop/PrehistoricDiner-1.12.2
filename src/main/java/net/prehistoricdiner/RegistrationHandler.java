@@ -49,7 +49,7 @@ public class RegistrationHandler {
                 ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "knife")).setTranslationKey("prehistoricdiner.knife").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
                 ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "ladle")).setTranslationKey("prehistoricdiner.ladle").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
                 ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "grinder")).setTranslationKey("prehistoricdiner.grinder").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
-                ((Item)(new ItemDamageableCrafted(32)0).setRegistryName("prehistoricdiner", "rolling_pin")).setTranslationKey("prehistoricdiner.rolling_pin").setCreativeTab(PrehistoricDiner.CREATIVE_TAB)
+                ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "rolling_pin")).setTranslationKey("prehistoricdiner.rolling_pin").setCreativeTab(PrehistoricDiner.CREATIVE_TAB)
 
 
         };
