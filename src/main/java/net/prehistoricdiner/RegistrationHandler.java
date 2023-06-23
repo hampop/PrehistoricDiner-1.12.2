@@ -44,12 +44,12 @@ public class RegistrationHandler {
 
 
                 //Non-food items:
-                ((Item)(new ItemDamageableCrafted(32)).setRegistryName("prehistoricdiner", "skillet")).setTranslationKey("prehistoricdiner.skillet").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
-                ((Item)(new ItemDamageableCrafted(32)).setRegistryName("prehistoricdiner", "pot")).setTranslationKey("prehistoricdiner.pot").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
-                ((Item)(new ItemDamageableCrafted(32)).setRegistryName("prehistoricdiner", "knife")).setTranslationKey("prehistoricdiner.knife").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
-                ((Item)(new ItemDamageableCrafted(32)).setRegistryName("prehistoricdiner", "ladle")).setTranslationKey("prehistoricdiner.ladle").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
-                ((Item)(new ItemDamageableCrafted(32)).setRegistryName("prehistoricdiner", "grinder")).setTranslationKey("prehistoricdiner.grinder").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
-                ((Item)(new ItemDamageableCrafted(32)).setRegistryName("prehistoricdiner", "rolling_pin")).setTranslationKey("prehistoricdiner.rolling_pin").setCreativeTab(PrehistoricDiner.CREATIVE_TAB)
+                ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "skillet")).setTranslationKey("prehistoricdiner.skillet").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "pot")).setTranslationKey("prehistoricdiner.pot").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "knife")).setTranslationKey("prehistoricdiner.knife").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "ladle")).setTranslationKey("prehistoricdiner.ladle").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "grinder")).setTranslationKey("prehistoricdiner.grinder").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
+                ((Item)(new ItemDamageableCrafted(320)).setRegistryName("prehistoricdiner", "rolling_pin")).setTranslationKey("prehistoricdiner.rolling_pin").setCreativeTab(PrehistoricDiner.CREATIVE_TAB)
 
 
         };
